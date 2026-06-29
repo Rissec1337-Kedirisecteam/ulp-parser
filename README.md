@@ -6,5 +6,5 @@ The ULP Parser is a machine learning-based tool or algorithm used to extract and
 
 ```bash
 git clone https://github.com/Rissec1337-Kedirisecteam/ulp-parser.git
-python ulp-parse.py
+python log-parse.py
 ```
