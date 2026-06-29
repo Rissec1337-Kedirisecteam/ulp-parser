@@ -12,6 +12,15 @@ python log-parser.py
 ```
 <h2>Notes</h2>
 
+1.Specify your input file.
 ```bash
-
+list.txt
 ```
+2.the keywords you want to separate
+```bash
+google.com,facebook.com
+```
+
+I hope you have a good time.
+
+Telegram: https://t.me/kedirisecteam1337
